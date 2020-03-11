@@ -15,4 +15,4 @@ If you use the dataset or any function provided here, please cite the following 
   publisher={Elsevier}
 }
 
-THIS REPOSITORY IS UNDER CONSTRUCTION. PLEASE STAT TUNE! 
+THIS REPOSITORY IS UNDER CONSTRUCTION. PLEASE STAY TUNED! 
