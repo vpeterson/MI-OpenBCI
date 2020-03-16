@@ -1,1 +1,5 @@
+EMG data acquired with Ganglion board (OpenBCI, USA) connected to two Myoware sensors (Advancer Technologies, USA). 
+Data from 11 subjects is provided. Note that subject S13 was not considered in the further experiment given the high number of EEG trials
+contaminated by EMG activity.
 
+EMG processing functions are provided in the Matlab files folder. 
