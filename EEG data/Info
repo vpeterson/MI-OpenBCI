@@ -3,3 +3,18 @@ OpenBCI Cyton + Daisy board (Open-BCI, USA). Fifteen (15) electrodes covering th
 (Fz, F3, F4, F7, F8, Cz, C3, C4, T3, T4, Pz, P3, P4, T5, T6) were used. 
 The reference and ground electrodes were placed at the left and right ear lobes, respectively.
 The sampling frequency of the OpenBCI amplifier was 125 Hz.
+
+The following table submmarized the demographic information of the population involved in this study (the ID of the subject corresponds
+to the one indicated in each folder)
+
+        ID  | Gender | Age | Dominant Hand
+        S02 | Male   | 28  | Right 
+        S03 | Female | 29  | Right 
+        S04 | Male   | 30  | Right 
+        S05 | Male   | 29  | Right 
+        S06 | Male   | 30  | Right 
+        S07 | Female | 20  | Right 
+        S08 | Male   | 25  | Right 
+        S09 | Female | 28  | Right 
+        S10 | Female | 22  | Right 
+        S11 | Male   | 20  | Right 
