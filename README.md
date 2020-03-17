@@ -15,6 +15,6 @@ If you use the dataset or any function provided here, please cite the following 
   publisher={Elsevier}
 }
 
-IF YOU HAVE ANY DOUBT OR PROBLEM WHILE USING THE DATA AND/OR SCRIPTS PROVIDED HERE, PLEASE DO NOT HESITATE IN CONTACT ME
+IF YOU HAVE ANY DOUBT OR PROBLEM WHILE USING THE DATA AND/OR SCRIPTS PROVIDED HERE, PLEASE DO NOT HESITATE TO CONTACT ME
 
 vpeterson@santafe-conicet.gov.ar
