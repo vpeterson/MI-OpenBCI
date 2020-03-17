@@ -15,4 +15,6 @@ If you use the dataset or any function provided here, please cite the following 
   publisher={Elsevier}
 }
 
-THIS REPOSITORY IS UNDER CONSTRUCTION. PLEASE STAY TUNED! 
+IF YOU HAVE ANY DOUBT OR PROBLEM WHILE USING THE DATA AND/OR SCRIPTS PROVIDED HERE, PLEASE DO NOT HESITATE IN CONTACT ME
+
+vpeterson@santafe-conicet.gov.ar
