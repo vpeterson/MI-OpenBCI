@@ -4,8 +4,9 @@ OpenBCI Cyton + Daisy board (Open-BCI, USA). Fifteen (15) electrodes covering th
 The reference and ground electrodes were placed at the left and right ear lobes, respectively.
 The sampling frequency of the OpenBCI amplifier was 125 Hz.
 
-The following table submmarized the demographic information of the population involved in this study (the ID of the subject corresponds
-to the one indicated in each folder)
+After the EMG processing, one subject (S13) presented more than the 50% of the EEG trials contaminated with actual movement, 
+thus, we endep up using the EEG signals coming from 10 subjects. The following table submmarized the demographic information of 
+the population involved in this study (the ID of the subject corresponds to the one indicated in each EEG data folder)
 
         ID  | Gender | Age | Dominant Hand
         S02 | Male   | 28  | Right 
@@ -17,4 +18,4 @@ to the one indicated in each folder)
         S08 | Male   | 25  | Right 
         S09 | Female | 28  | Right 
         S10 | Female | 22  | Right 
-        S11 | Male   | 20  | Right 
+        S12 | Male   | 20  | Right 
