@@ -5,7 +5,7 @@ function [DataEEG, elecIndex]=ExtractTrialsMI(archive, opt, verbose)
 % 770-rigth hand (MI)
 % 772-tonge (REST)
 
-%outpus:
+%outputs:
 %data: a N x C x M matrix, where M is the number of observations (trials,
 %epochs), N is the number of samples and C is the number of channels. 
 %label: a M x 1 vector containing class labels. 1=MI, 2=REST. 
