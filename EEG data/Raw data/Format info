@@ -1,6 +1,7 @@
 We finally kept in our databse EEG data coming from 10 subjects. We provide here the OpenViBe files (ov) of each experimental Run
 (RUN0-RUN4).
-The files contain the filtered EEG signal during acquisition. For better signal-to-noise ratio a post-filtering step might be necessesary.
+The files contain the filtered EEG signal during acquisition. For better signal-to-noise ratio a post-filtering step might be necessesary 
+(set opt.filt=1 in the file "GenerateData.m" provided in the Matlab file folder).
 For converting the ov files to matlab files we use the ov2mat converter toolbox available at http://openvibe.inria.fr/converting-ov-files-to-matlab/
 
 
