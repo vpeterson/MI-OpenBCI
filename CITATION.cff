@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  A feasibility study of a complete low-cost
+  consumer-grade brain-computer interface system
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Victoria
+    family-names: Peterson
+  - given-names: Catalina
+    family-names: Galván
+  - given-names: Hugo
+    family-names: Hernández
+  - given-names: Rubén
+    family-names: Spies
