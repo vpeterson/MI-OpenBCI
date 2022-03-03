@@ -5,7 +5,7 @@ cff-version: 1.2.0
 title: >-
   MI-OpenBCI
 message: >-
-  If you use this software, please cite it using the
+  If you use this software, or the provided data, please cite it using the
   metadata from this file.
 type: software
 authors:
