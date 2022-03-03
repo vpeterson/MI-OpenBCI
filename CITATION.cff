@@ -3,8 +3,7 @@
 
 cff-version: 1.2.0
 title: >-
-  A feasibility study of a complete low-cost
-  consumer-grade brain-computer interface system
+  MI-OpenBCI
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -16,5 +15,11 @@ authors:
     family-names: Galván
   - given-names: Hugo
     family-names: Hernández
+  - given-names: María Paula
+    family-names: Saavedra
   - given-names: Rubén
     family-names: Spies
+   
+version: 1.0.1
+doi: https://zenodo.org/badge/latestdoi/226123677
+date-released: 2022-03-03
